@@ -1,0 +1,17 @@
+# Ignorar archivo de configuración sensible
+.env*
+
+# Ignorar binarios compilados
+*.exe
+*.out
+*.test
+
+# Ignorar carpetas comunes
+/vendor/
+/node_modules/
+/dist/
+
+# Ignorar archivos temporales de sistema operativo o editores
+.DS_Store
+.idea/
+.vscode/
