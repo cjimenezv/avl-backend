@@ -5,7 +5,7 @@ go 1.24.5
 require (
 	github.com/MicahParks/keyfunc v1.9.0
 	github.com/gin-gonic/gin v1.10.1
-	github.com/golang-jwt/jwt/v5 v5.2.3
+	github.com/golang-jwt/jwt/v4 v4.4.2
 	github.com/joho/godotenv v1.5.1
 	go.mongodb.org/mongo-driver v1.17.4
 )
@@ -20,7 +20,6 @@ require (
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-playground/validator/v10 v10.27.0 // indirect
 	github.com/goccy/go-json v0.10.5 // indirect
-	github.com/golang-jwt/jwt/v4 v4.4.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.16.7 // indirect
